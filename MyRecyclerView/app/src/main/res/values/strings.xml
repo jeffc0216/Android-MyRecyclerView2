@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="text_Spots">Spots</string>
+    <string name="text_Home">Home</string>
+    <string name="text_UserName">Mary</string>
+    <string name="text_Email">marry@gmail.com</string>
+    <string name="text_Open">Open</string>
+    <string name="text_Close">Close</string>
+</resources>

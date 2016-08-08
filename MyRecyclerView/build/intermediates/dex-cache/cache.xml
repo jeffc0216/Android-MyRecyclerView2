@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/MyRecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="25ac6801671b52875aaa6341f36488e8ce9336e9">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/MyRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7e600afe19b903f77999cec37cff33f61788eef/classes.dex" />
+    </item>
+
+</items>
